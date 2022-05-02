@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/6th sem/Android/Microproject/Todolist/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/6th sem/Android/Microproject/Todolist/app/src/main/res/layout/item_task.xml" value="0.25" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/drawable/bg_splash_gradient.xml" value="0.226" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/drawable/btn_background.xml" value="0.1" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/activity_alarm.xml" value="0.13866120218579234" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/dialog_completed_theme.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/fragment_calender_view.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/fragment_create_task.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/layout/item_task.xml" value="0.22826086956521738" />
+        <entry key="..\:/6th sem/Android/Todolist/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
