@@ -1,3 +1,3 @@
 # Todolist-Android
 
-<h2>Todolist Application develloped using Java</h2>
+<h2>Todolist Application developed using Java for Android</h2>
